@@ -1,5 +1,11 @@
 Super Smash Bros 64 modification created by halofactory
 
+CONTACT:
+twitter: @halofactorymoon *
+Discord: halofactory#0117
+
+* @ me if you want to show me any Smash 64 Berdly content
+
 -- -- -- -- -- -- -- -- -- -- -- -- -- 
 
 REQUIREMENTS:
@@ -14,6 +20,4 @@ WHAT IS THIS?:
 - Berdly does not use guns so I gave him potassium as a compromise
 - His shine is also replaced with a neat graphic!
 
-CONTACT:
-twitter: @halofactorymoon
-Discord: halofactory#0117
+I included the bmps in case anyone wanted to edit them. If someone sends me a better graphic, I can update the repository + model and give credit.
