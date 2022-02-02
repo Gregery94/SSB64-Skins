@@ -2,7 +2,7 @@ Super Smash Bros 64 modification created by halofactory
 
 CONTACT:
 twitter: @halofactorymoon *
-Discord: halofactory#0117
+Discord: halofactory#2419
 
 * @ me if you want to show me any Smash 64 Berdly content
 
